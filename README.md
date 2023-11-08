@@ -16,3 +16,4 @@
 ## Projects
 
 - [Gameflix](https://armanhashemi.github.io/gameflix/)
+- [Calculator](https://armanhashemi.github.io/calculator-app/#/)
